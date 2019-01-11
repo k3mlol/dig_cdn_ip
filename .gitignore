@@ -1,0 +1,6 @@
+*.xml
+*.json
+unionpay.yml
+bin/*
+
+.DS_Store

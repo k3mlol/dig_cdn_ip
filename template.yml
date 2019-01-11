@@ -1,0 +1,7 @@
+scan_ip_block:
+ - 180.169.95.0/24
+website_factor:
+ title: 
+
+save_filename:
+  filename.json
